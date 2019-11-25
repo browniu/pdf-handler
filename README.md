@@ -3,7 +3,7 @@
 
 ## 预览 [Demo](https://browniu.com/pdf-handler/)
 
-## 相关依赖 Deploy
+## 相关依赖
 
 * [pdj.js](https://mozilla.github.io/pdf.js/)
 
