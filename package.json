@@ -1,0 +1,15 @@
+{
+  "name": "pdf-handler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/browniu/pdf-handler.git",
+  "author": "browniu <niuniusoga@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d public"
+  },
+  "private": false,
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
